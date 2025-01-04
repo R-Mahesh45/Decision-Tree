@@ -81,12 +81,12 @@ This repository contains the implementation of a Decision Tree algorithm for cla
 
 ## **Results**
 - **Fraud Detection Tree:**
-  ![Fraud Tree](![download (2)](https://github.com/user-attachments/assets/86612b54-c1dc-463f-8a1a-d993e31db6df))
+- (https://github.com/user-attachments/assets/86612b54-c1dc-463f-8a1a-d993e31db6df)
 
 
 
 - **Sales Analysis Tree:**
-  ![Sales Tree](![download (3)](https://github.com/user-attachments/assets/deaa34a1-cb4a-4cfd-a54e-d041a26abec7))
+- (https://github.com/user-attachments/assets/deaa34a1-cb4a-4cfd-a54e-d041a26abec7)
 
 
 ---
