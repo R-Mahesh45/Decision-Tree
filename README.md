@@ -60,7 +60,7 @@ This repository contains the implementation of a Decision Tree algorithm for cla
 ## **Setup**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/Decision-Tree-Algorithm.git
+   git clone https://github.com/R-Mahesh45/Decision-Tree-Algorithm.git
    cd Decision-Tree-Algorithm
    ```
 2. Install dependencies:
@@ -81,9 +81,11 @@ This repository contains the implementation of a Decision Tree algorithm for cla
 
 ## **Results**
 - **Fraud Detection Tree:**
-  ![Fraud Tree](results/fraud_tree.png)
+  ![Fraud Tree](![download (2)](https://github.com/user-attachments/assets/86612b54-c1dc-463f-8a1a-d993e31db6df))
+
 - **Sales Analysis Tree:**
-  ![Sales Tree](results/sales_tree.png)
+  ![Sales Tree](![download (3)](https://github.com/user-attachments/assets/deaa34a1-cb4a-4cfd-a54e-d041a26abec7))
+
 
 ---
 
@@ -98,15 +100,3 @@ This repository contains the implementation of a Decision Tree algorithm for cla
   plt.show()
   ```
 ---
-
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## **Contributors**
-- [Your Name](https://github.com/username)
-
----
-
-Feel free to adapt this structure based on your project requirements!
